@@ -1,0 +1,2 @@
+To start the application in the frontend  and backend side use command:
+npm start
